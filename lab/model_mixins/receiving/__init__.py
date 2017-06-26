@@ -1,0 +1,1 @@
+from .manifest_model_mixin import ManifestModelMixin
